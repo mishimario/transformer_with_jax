@@ -1,0 +1,62 @@
+name: sample
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2022.4.26=hecd8cb5_0
+  - certifi=2022.5.18.1=py39hecd8cb5_0
+  - intel-openmp=2021.4.0=hecd8cb5_3538
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - mkl=2021.4.0=hecd8cb5_637
+  - mkl-service=2.4.0=py39h9ed2024_0
+  - mkl_fft=1.3.1=py39h4ab4a9b_0
+  - mkl_random=1.2.2=py39hb2f4e1b_0
+  - ncurses=6.3=hca72f7f_2
+  - numpy=1.22.3=py39h2e5f0a9_0
+  - numpy-base=1.22.3=py39h3b1a694_0
+  - openssl=1.1.1o=hca72f7f_0
+  - pip=21.2.4=py39hecd8cb5_0
+  - python=3.9.12=hdfd78df_1
+  - readline=8.1.2=hca72f7f_1
+  - setuptools=61.2.0=py39hecd8cb5_0
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.38.3=h707629a_0
+  - tk=8.6.12=h5d9f67b_0
+  - tzdata=2022a=hda174b7_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=hca72f7f_1
+  - zlib=1.2.12=h4dc903c_2
+  - pip:
+    - absl-py==1.2.0
+    - charset-normalizer==2.1.0
+    - chex==0.1.3
+    - dill==0.3.5.1
+    - dm-haiku==0.0.7
+    - dm-tree==0.1.7
+    - etils==0.6.0
+    - flatbuffers==2.0
+    - googleapis-common-protos==1.56.4
+    - idna==3.3
+    - importlib-resources==5.8.0
+    - jax==0.3.14
+    - jaxlib==0.3.14
+    - jmp==0.0.2
+    - opt-einsum==3.3.0
+    - optax==0.1.3
+    - promise==2.3
+    - protobuf==3.20.1
+    - requests==2.28.1
+    - scipy==1.8.1
+    - tabulate==0.8.10
+    - tensorflow-datasets==4.6.0
+    - tensorflow-metadata==1.9.0
+    - termcolor==1.1.0
+    - toml==0.10.2
+    - toolz==0.12.0
+    - tqdm==4.64.0
+    - typing-extensions==4.3.0
+    - urllib3==1.26.10
+    - zipp==3.8.1
+prefix: /Users/yozyouhan/miniconda3/envs/sample
+
